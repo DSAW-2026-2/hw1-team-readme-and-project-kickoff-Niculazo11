@@ -1,4 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/ldLXoPBi)
+# Nicolas Moreno Parra
+URL: https://dsaw-2026-2.github.io/hw1-team-readme-and-project-kickoff-Niculazo11/
+
 # HW01 — Team README & Project Kickoff
 
 **Week 1 · DSAW · Universidad de La Sabana**
